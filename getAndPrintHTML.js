@@ -34,7 +34,6 @@ https.get(requestOptions, function (response) {
 
 }
 
-
 function myCallback(html){
   console.log('HTML:', html);
 }
